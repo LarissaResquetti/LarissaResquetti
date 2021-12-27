@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LarissaResquetti
 - 👀 I’m interested in ser uma grande Desenvoldedora 
 - 🌱 I’m currently learning  na Dio através do Bootcamp Inter Frontend Developer 
-- 💞️ I’m looking to collaborate com alguns projetos apreendidos aravés dps Bootcamp 
+- 💞️ I’m looking to collaborate com alguns projetos apreendidos aravés dos Bootcamp e do curso Produção de Websites Expert - Front End
 - 📫 How to reach me: Por meio do meio do Linkedln --> https://www.linkedin.com/in/larissa-resquetti-3038ab183
 
 <!---
